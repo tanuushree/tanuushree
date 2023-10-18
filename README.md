@@ -16,6 +16,7 @@
 <div align="center">
   <h1 >Hello There!</h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZlaTV6cjlwdHJ1bDF6dnEydTZhZXhhcnhsNWh0ZWxvanR2ejlzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+  <a href="">
 </div>
 
 - ---
@@ -28,6 +29,7 @@ I am a Frontend Developer and a ML enthusiast <img src="https://media.giphy.com/
 - :zap: When I don't use my laptop for coding, I usually write - poetry.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tanu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanuushree/)
+- <a href="https://tanushree.pages.dev/">Portfolio</a>
 
 - ---
 
