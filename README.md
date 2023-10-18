@@ -22,6 +22,7 @@
 - ---
 ### :woman_technologist: About Me :
 I am a Frontend Developer and a ML enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- <a href="https://tanushree.pages.dev/">Portfolio</a>
 - :telescope: I’m currently working as a Machine Learning Intern and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing and web3.
@@ -29,7 +30,7 @@ I am a Frontend Developer and a ML enthusiast <img src="https://media.giphy.com/
 - :zap: When I don't use my laptop for coding, I usually write - poetry.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tanu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanuushree/)
-- <a href="https://tanushree.pages.dev/">Portfolio</a>
+
 
 - ---
 
