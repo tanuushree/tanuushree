@@ -16,15 +16,10 @@
 
 - ---
 ### :woman_technologist: About Me :
-I am a Frontend Developer and a ML enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-- :telescope: I’m currently working as a Machine Learning Intern and contributing to frontend for building web applications.
-
-- :seedling: Exploring Technical Content Writing and web3.
-
-- :zap: When I don't use my laptop for coding, I usually write - poetry.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tanu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanuushree/)
+A software developer in making, wo wouldn't admit that she loves to code, but there will be signs.
+- :seedling: I often talk about development, servers, machine learning, and web3. Sometimes these make sense as writings as well.
+- :mailbox: Drop me a hi: [![Linkedin Badge](https://img.shields.io/badge/-Tanu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanuushree/)
+- ☕Brownie points for buying me a coffee.  Go here ➡️ [Buy me a coffee](https://buymeacoffee.com/tanuushree)
 
 
 - ---
