@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
-</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tanuushree/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +14,7 @@
 - ---
 ### :woman_technologist: About Me :
 A software developer in making, wo wouldn't admit that she loves to code, but there will be signs.
-- :seedling: I often talk about development, servers, machine learning, and web3. Sometimes these make sense as writings as well.
+- :seedling:  I often talk about development, servers, machine learning, and web3. Occasionally, these thoughts make their way into my writings as well.
 - :mailbox: Drop me a hi: [![Linkedin Badge](https://img.shields.io/badge/-Tanu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanuushree/)
 - ☕Brownie points for buying me a coffee.  Go here ➡️ [Buy me a coffee](https://buymeacoffee.com/tanuushree)
 
