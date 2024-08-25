@@ -16,7 +16,7 @@
 A software developer in making, wo wouldn't admit that she loves to code, but there will be signs.
 - :seedling:  I often talk about development, servers, machine learning, and web3. Occasionally, these thoughts make their way into my writings as well.
 - :mailbox: Drop me a hi: [![Linkedin Badge](https://img.shields.io/badge/-Tanu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanuushree/)
-- ☕Brownie points for buying me a coffee.  Go here ➡️ [Buy me a coffee](https://buymeacoffee.com/tanuushree)
+- ☕Brownie points for [buying me a coffee](https://buymeacoffee.com/tanuushree)
 
 
 - ---
