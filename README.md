@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I’m a software developer in the making.  
+I’m a software engineer.  
 I won’t always say I love to code, but I enjoy working close to systems and building things that actually work.  
 I spend most of my time around backend, web development, and exploring machine learning and Web3.  
 
